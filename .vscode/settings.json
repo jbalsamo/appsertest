@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/8716266b-1f5b-41c0-b701-53acd8b7bc9c/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/hgjoeapi",
+  "appService.deploySubpath": "."
+}
